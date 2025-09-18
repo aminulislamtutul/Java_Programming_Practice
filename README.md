@@ -6,3 +6,4 @@
 - Operators
 - Conditional Statements
 - Looping Statements
+- Arrays
