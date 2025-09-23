@@ -7,3 +7,4 @@
 - Conditional Statements
 - Looping Statements
 - Arrays
+- String
