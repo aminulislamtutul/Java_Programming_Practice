@@ -13,3 +13,4 @@
 - Class
 - Object
 - Methods
+- Inheritance
