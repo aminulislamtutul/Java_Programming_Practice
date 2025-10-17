@@ -13,5 +13,6 @@
 - Class
 - Object
 - Methods
+- Encapsulation
 - Inheritance
 - Polymorphism
