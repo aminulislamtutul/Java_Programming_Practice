@@ -16,3 +16,4 @@
 - Encapsulation
 - Inheritance
 - Polymorphism
+- Abstraction
